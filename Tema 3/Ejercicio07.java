@@ -15,7 +15,7 @@ public class Ejercicio07{
         System.out.println(blanco + "Inserte la base imponible : ");
         float baseImponible = Float.parseFloat(System.console().readLine());
         float totalFactura = baseImponible * Float.parseFloat("1.25");
-        String.out.println(blanco + "Capital de base imponible : \t" + naranja + String.parseString(baseImponible) + " Euros" + blanco);
-        String.out.println(blanco + "Total (iba incluido) : \t" + naranja + totalFactura + " Euros" + blanco);
+        System.out.println(blanco + "Capital de base imponible : \t" + naranja + baseImponible + " Euros" + blanco);
+        System.out.println(blanco + "Total (iba incluido) : \t" + naranja + totalFactura + " Euros" + blanco);
     }
 }
