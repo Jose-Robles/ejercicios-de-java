@@ -1,7 +1,7 @@
 /**
  * Ejercicio 08 tema 03
  * 
- * Calcula el área de un rectángulo introduciendo la longitud de los lados
+ * Calcula el dinero que ganaríamos en una semana dada
  * 
  * @author José Robles Bastidas
  */
