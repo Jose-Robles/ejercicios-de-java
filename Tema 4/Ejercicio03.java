@@ -16,7 +16,7 @@ public class Ejercicio03 {
         System.out.println(" a partir de un número dado." + blanco);
         System.out.println("Introduce un número >>");
         día = Integer.parseInt(System.console().readLine());
-        if(día >= 1 || día <= 7){
+        if(día >= 1 && día <= 7){
             if(día == 1){
                 System.out.println(celeste + "El día correspondiente es Lunes" + blanco);
             }
