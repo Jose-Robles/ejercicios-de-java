@@ -27,7 +27,7 @@ public class Ejercicio04 {
         if (horasTotales > 40){
             float horasExtra = (horasTotales-40)*16;
             System.out.print("Tu salario semanal asciende a un total de: ");
-            System.out.print(azul + ((horasTotales*precioHora) + (horasExtra)) + " € \n" + blanco);
+            System.out.print(azul + ((40*precioHora) + (horasExtra)) + " € \n" + blanco);
         }
         else {
             System.out.print("Tu salario semanal asciende a un total de: ");
