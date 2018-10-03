@@ -32,4 +32,5 @@ public class Ejercicio02 {
         else{
             System.out.println(rojo + "ERROR : introduce un número entre 0 y 24" + blanco);
         }
+    }
 }

@@ -23,6 +23,6 @@ public class Ejercicio05 {
         }
         double x = (a / (-b));
         System.out.print(blanco + "\nEl valor de " + naranja + "x" + blanco + " es :  ");
-        System.out.printf(naranja + "%.2f" + blanco, x);
+        System.out.printf(naranja + "%.2f\n\n" + blanco, x);
     }
 }
