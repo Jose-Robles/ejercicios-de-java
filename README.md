@@ -1,5 +1,5 @@
 # EJERCICIOS DE JAVA
-Relación de ejercicios de la asignatura Programación de *[1º DAM curso 18/19](https://github.com/IESCampanillas/indice-dam-y-daw#1%C2%BA-dam)
+Relación de ejercicios de la asignatura Programación de [1º DAM curso 18/19](https://github.com/IESCampanillas/indice-dam-y-daw#1%C2%BA-dam)
 
 ## Material usado para la asignatura de programación:
 
