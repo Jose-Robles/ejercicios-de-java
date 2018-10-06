@@ -1,11 +1,10 @@
 /**
-* Ejercicio 10 Tema 04
-* 
-* Muestra el horóscopo a partir del día y el mes en el que naciste
-*
-* @author José Robles Bastidas
+ * Ejercicio 10 Tema 04
+ * 
+ * Muestra el horóscopo a partir del día y el mes en el que naciste
+ *
+ * @author José Robles Bastidas
 */
-
 public class Ejercicio10 {
   public static void main(String[] args) {
     System.out.println("¿Quieres saber tu horóscopo? Has venido al lugar adecuado");

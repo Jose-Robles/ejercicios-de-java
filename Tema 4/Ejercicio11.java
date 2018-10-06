@@ -1,11 +1,10 @@
 /**
-* Ejercicio 11 Tema 04
-* 
-* Calcula los segundos que faltan para llegar a medianoche
-*
-* @author JosÃ© Robles Bastidas
+ * Ejercicio 11 Tema 04
+ * 
+ * Calcula los segundos que faltan para llegar a medianoche
+ *
+ * @author José Robles Bastidas
 */
-
 public class Ejercicio11 {
   public static void main(String[] args) {
 

@@ -1,11 +1,10 @@
 /**
-* Ejercicio 09 Tema 
-* 
-* Calcula la solución a una ecuación de segundo grado
-*
-* @author José Robles Bastidas
+ * Ejercicio 09 Tema 
+ * 
+ * Calcula la solución a una ecuación de segundo grado
+ *
+ * @author José Robles Bastidas
 */
-
 public class Ejercicio09 {
   public static void main(String[] args) {
     double a;
@@ -22,11 +21,9 @@ public class Ejercicio09 {
       System.out.print("Introduce valores plausibles, osea,  más grandes.");
     } else if(a!=0) {
     double total1;
-    total1 = (-b + Math.sqrt ((b*b)-(4*a*c))) / 2*a;
-    
+    total1 = ((-b + Math.sqrt((b*b)-(4*a*c))) / 2*a);
     double total2;
-    total2 = (-b - Math.sqrt ((b*b)-(4*a*c))) / 2*a;
-
+    total2 = ((-b - Math.sqrt((b*b)-(4*a*c))) / 2*a);
     System.out.println("El primer número introducido es " + a);
     System.out.println("El segundo numero introducido es  " + b);
     System.out.println("El tercer numero introducido es  " + c);

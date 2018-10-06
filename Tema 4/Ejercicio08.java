@@ -1,7 +1,7 @@
 /**
  * Ejercicio 08 tema 04
  * 
- * 
+ * Hace la media de tres notas dadas y da un pronóstico del boletín
  * 
  * @author José Robles Bastidas
  */

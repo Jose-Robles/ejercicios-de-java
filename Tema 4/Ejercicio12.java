@@ -1,9 +1,9 @@
 /**
-* Ejercicio 12 Tema 04
-* 
-* Este programa desarrolla un formulario
-*
-* @author José Robles Bastidas
+ * Ejercicio 12 Tema 04
+ * 
+ * Este programa desarrolla un formulario
+ *
+ * @author José Robles Bastidas
 */
 
 public class Ejercicio12 {
@@ -16,7 +16,7 @@ public class Ejercicio12 {
     System.out.println("¡¡EXAMINATE DE TUS CONOCIMINETOS!!");
     System.out.println("\n");
     String linea;
-    System.out.println("1.¿Que estructura de JAVA es la correcta? ");
+    System.out.println("1.¿Qué estructura de JAVA es la correcta? ");
     System.out.println("1. if y else ");
     System.out.println("2. elso y salso");
     linea = System.console().readLine();
@@ -31,7 +31,7 @@ public class Ejercicio12 {
 	}
     System.out.println("\n\n");
     String lineados;
-    System.out.println("2.¿Como se llama la profesora de BBDD?");
+    System.out.println("2.¿Cómo se llama la profesora de BBDD?");
     System.out.println("1.Eva");
     System.out.println("2.Bea");
     lineados = System.console().readLine();
@@ -48,7 +48,7 @@ public class Ejercicio12 {
     System.out.println("\n");
     System.out.println("\n");
     String lineatres;
-    System.out.println("3.¿Que configuración tienen nuestros teclados?");
+    System.out.println("3.¿Qué configuración tienen nuestros teclados?");
     System.out.println("1.DFÑLOP");
     System.out.println("2.QWERTY");
     lineatres = System.console().readLine();
@@ -64,7 +64,7 @@ public class Ejercicio12 {
     System.out.println("\n");
     System.out.println("\n");
     String lineacuatro;
-    System.out.println("4.¿Como se llama el profesor de programación?");
+    System.out.println("4.¿Cómo se llama el profesor de programación?");
     System.out.println("1.Luis");
     System.out.println("2.Roberto");
     lineacuatro = System.console().readLine();
@@ -80,7 +80,7 @@ public class Ejercicio12 {
     System.out.println("\n");
     System.out.println("\n");
     String lineacinco;
-    System.out.println("5.¿Que programa se suele hacer cuando se comienza a programar?");
+    System.out.println("5.¿Qué programa se suele hacer cuando se comienza a aprender a programar?");
     System.out.println("1.Hola mama");
     System.out.println("2.Hola Mundo");
     lineacinco = System.console().readLine();
@@ -96,7 +96,7 @@ public class Ejercicio12 {
     System.out.println("\n");
     System.out.println("\n");
     String lineaseis;
-    System.out.println("6.¿Cuantas pesetas aprox son 1€?");
+    System.out.println("6.¿Cuántas pesetas aprox son 1€?");
     System.out.println("1.116");
     System.out.println("2.256");
     lineaseis = System.console().readLine();
@@ -112,7 +112,7 @@ public class Ejercicio12 {
     System.out.println("\n");
     System.out.println("\n");
     String lineasiete;
-    System.out.println("7.¿Que plataforma utilizamos en programación?");
+    System.out.println("7.¿Qué plataforma utilizamos en programación?");
     System.out.println("1.GitGit");
     System.out.println("2.GitHub");
     lineasiete = System.console().readLine();
@@ -128,7 +128,7 @@ public class Ejercicio12 {
     System.out.println("\n");
     System.out.println("\n");
     String lineaocho;
-    System.out.println("8.¿Que plataforma utilizamos en BBDD?");
+    System.out.println("8.¿Qué plataforma utilizamos en BBDD?");
     System.out.println("1.Moodle");
     System.out.println("2.Roodle");
     lineaocho = System.console().readLine();
@@ -144,7 +144,7 @@ public class Ejercicio12 {
     System.out.println("\n");
     System.out.println("\n");
     String lineanueve;
-    System.out.println("9.¿Que utilizo para declarar numeros enteros?");
+    System.out.println("9.¿Qué se utiliza para declarar números enteros?");
     System.out.println("1.Double");
     System.out.println("2.Int");
     lineanueve = System.console().readLine();
@@ -161,7 +161,7 @@ public class Ejercicio12 {
     System.out.println("\n");
     System.out.println("\n");
     String lineadiez;
-    System.out.println("10.¿Que utilizo para declarar numeros con decimales?");
+    System.out.println("10.¿Qué utilizo para declarar numeros con decimales?");
     System.out.println("1.Double");
     System.out.println("2.Int");
     lineadiez = System.console().readLine();

@@ -1,9 +1,9 @@
 /**
-* Ejercicio 14 Tema 04
-* 
-* Calcula si un número es par o impar y si es divisible entre 5.
-*
-* @author José Robles Bastidas
+ * Ejercicio 14 Tema 04
+ * 
+ * Calcula si un número es par o impar y si es divisible entre 5.
+ *
+ * @author José Robles Bastidas
 */
 public class Ejercicio14 {
 	public static void main(String[] args) {
