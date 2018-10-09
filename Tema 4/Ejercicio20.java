@@ -7,26 +7,31 @@
 */
 public class Ejercicio20 {
     public static void main(String[] args) {
-        System.out.println
+	int a = 0;
+	int b = 0;
+	int c = 0;
+	int d = 0;
+	int e = 0;
+        System.out.println("Este programa comprueba si los números son capicúa o no.");
         System.out.print("Introduce un número entero de hasta 5 cifras por favor >>");
         int n = Integer.parseInt(System.console().readLine());
         // Después de comprobar si cumpple los requerimientos el número introducido
         // hay que conocer cada cifra del número, por eso se le asigna cada cifra a una variable
         if(n < 0 && n >= 100000){
-            int e = n%10;
-            int d = n%100 - e;
-            int c = n%1000 - d;
-            int b = n%10000 - c;
-            int a = n%100000 - b;
+            e = n%10;
+            d = n%100 - e;
+            c = n%1000 - d;
+            b = n%10000 - c;
+            a = n%100000 - b;
             }else{
             System.out.println("\nERROR: No puedo procesar una cadena más larga de 5 cifras.");
         }
         // Y ahora podemos usar las reglas de los números capicúa
-        if(a=0){
-            if(b=0){
-                if(c=0){
-                    if(d=0){
-                        if(e=0){
+        if(a==0){
+            if(b==0){
+                if(c==0){
+                    if(d==0){
+                        if(e==0){
                             System.out.println("\nEs un número capicúa");
                         }else{
                             System.out.println("\nEs un número capicúa");

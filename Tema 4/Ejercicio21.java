@@ -12,7 +12,7 @@ public class Ejercicio21 {
         double primerControl = Double.parseDouble(System.console().readLine());
         System.out.println("Nota del segundo control: ");
         double segundoControl = Double.parseDouble(System.console().readLine());
-        double media = primerControl+segundoControl)/2;
+        double media = (primerControl+segundoControl)/2;
         if ((media) >= 5.0) {
             System.out.printf("Tu nota de Programación es %.1f\n", media);
         } else{

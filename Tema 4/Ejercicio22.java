@@ -7,7 +7,7 @@
 */
 public class Ejercicio22 {
     public static void main(String[] args) {
-        int minParaFinde;
+        int minParaFinde = 0;
         boolean salir = false;
         System.out.println("¿Qué día de la semana es hoy?");
         String diaSemana = System.console().readLine().toUpperCase();
