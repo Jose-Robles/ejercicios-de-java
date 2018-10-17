@@ -25,3 +25,4 @@ Relación de ejercicios de la asignatura Programación de [1º DAM curso 18/19](
 * [Tema 2 (Variables)](https://github.com/Jose-Robles/ejercicios-de-java/tree/master/Tema%202)
 * [Tema 3 (Lectura de datos por teclado)](https://github.com/Jose-Robles/ejercicios-de-java/tree/master/Tema%203)
 * [Tema 4 (Sentencias if y switch)](https://github.com/Jose-Robles/ejercicios-de-java/tree/master/Tema%204)
+* [Tema 5 (Bucles)](https://github.com/Jose-Robles/ejercicios-de-java/tree/master/Tema%205)
