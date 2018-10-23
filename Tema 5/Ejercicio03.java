@@ -12,8 +12,7 @@ public class Ejercicio03 {
             if (i%5 == 0){
                 System.out.println(i);
             }
-            i++;} while (i < 100);
-        
-        }
+            i++;
+        } while (i <= 100);
     }
 }
