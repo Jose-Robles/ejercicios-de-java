@@ -9,10 +9,10 @@ public class Ejercicio16 {
     public static void main(String[] args) {
         System.out.print("Introduce un número para comprobar si es primo o no >>");
         int numero = Integer.parseInt(System.console().readLine());
-        boolean primo = false;
+        boolean primo = true;
         for (int n = 2; n < numero; n++) {
             if(numero%n == 0){
-                primo = true;
+                primo = false;
             }
         }
         if(primo == true){
