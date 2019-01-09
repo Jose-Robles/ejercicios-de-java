@@ -54,7 +54,7 @@ public class bishopChessPossition {
             posX = (int)(bishopPos.charAt(0));
           	posY = (int)(bishopPos.charAt(1));
           	loopRepeat = true;
-        }while(posY > 56 || posY < 48 || posX < 97 || posX > 104);
+        } while(posY > 56 || posY < 48 || posX < 97 || posX > 104);
 		System.out.println(info[lang][4]);
       	for(int i = 0; i<chessboard.length;i++){
           	for(int j = 0;j<chessboard[0].length;j++){

@@ -1,0 +1,20 @@
+aleatorio__________________ALL
+agregaAlFinal______________UNI__
+
+1. generaArrayInt___________UNI__BI__
+2. minimoArrayInt___________UNI__
+3. maximoArrayInt___________UNI__
+4. mediaArrayInt____________UNI__
+5. estaEnArrayInt___________UNI__BI__
+6. posicionEnArray__________UNI__
+7. volteaArrayInt___________UNI__
+8. rotaDerechaArrayInt______UNI__
+9. rotaIzquierdaArrayInt____UNI__
+
+
+1. generaArrayBiInt_________ALL__
+2. filaDeArrayBiInt_________ALL__
+3. columnaDeArrayBiInt______ALL__
+4. coordenadasEnArrayBiInt__ALL__
+5. esPuntoDeSilla___________ALL__
+6. diagonal_________________---
